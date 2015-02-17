@@ -1,0 +1,1 @@
+module.exports = require('./lib/B4T-BuildInfo');
